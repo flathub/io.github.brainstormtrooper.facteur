@@ -32,8 +32,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/brainstormtrooper/facteur",
-                    "tag": "0.20.2",
-                    "commit": "baa8e8ba52688751c83d81d09ec8928d014d9e17"
+                    "tag": "0.20.3",
+                    "commit": "b85ee12deafa7f22c1241f5bb1946fd1d9bf645d"
                 }
             ]
         }
