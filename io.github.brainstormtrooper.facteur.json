@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.brainstormtrooper.facteur",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "47",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "io.github.brainstormtrooper.facteur",
     "finish-args" : [
@@ -32,8 +32,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/brainstormtrooper/facteur",
-                    "tag": "0.20.3",
-                    "commit": "b85ee12deafa7f22c1241f5bb1946fd1d9bf645d"
+                    "tag": "0.21.3",
+                    "commit": "d453b10c71d031898c45fcc7f3802a30a54a5861"
                 }
             ]
         }
