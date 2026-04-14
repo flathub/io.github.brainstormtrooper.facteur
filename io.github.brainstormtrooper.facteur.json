@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.brainstormtrooper.facteur",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "48",
+    "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
     "command" : "io.github.brainstormtrooper.facteur",
     "finish-args" : [
@@ -11,17 +11,6 @@
         "--device=dri",
         "--share=network",
         "--talk-name=org.freedesktop.secrets"
-    ],
-    "cleanup" : [
-        "/include",
-        "/lib/pkgconfig",
-        "/share/pkgconfig",
-        "/share/aclocal",
-        "/man",
-        "/share/man",
-        "/share/gtk-doc",
-        "*.la",
-        "*.a"
     ],
     "modules" : [
         {
